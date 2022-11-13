@@ -80,3 +80,7 @@
 * [Crypto CTF 2021](ctf-writeups/crypto-ctf-2021.md)
 * [DownUnder CTF 2022](ctf-writeups/downunder-ctf-2022.md)
 * [Sekai CTF 2022](ctf-writeups/sekai-ctf-2022.md)
+
+## CTF-RE-WRITEUPS
+
+* [Glitch in the matrix](ctf-re-writeups/glitch-in-the-matrix.md)
