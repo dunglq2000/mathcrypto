@@ -83,4 +83,4 @@
 
 ## CTF-RE-WRITEUPS
 
-* [Glitch in the matrix](ctf-re-writeups/glitch-in-the-matrix.md)
+* [ISITDTU Quals 2022](ctf-re-writeups/isitdtu-quals-2022.md)
