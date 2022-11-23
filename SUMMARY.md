@@ -36,6 +36,9 @@
   * [Kernel và homomorphism trên vành](ly-thuyet-nhom/vanh-ring/kernel-va-homomorphism-tren-vanh.md)
 * [Trường (Field)](ly-thuyet-nhom/truong.md)
   * [Trường nguyên tố](ly-thuyet-nhom/truong-field/truong-nguyen-to.md)
+* [Nhóm hoán vị](ly-thuyet-nhom/nhom-hoan-vi.md)
+* [Các loại morphism](ly-thuyet-nhom/cac-loai-morphism.md)
+* [Tác động nhóm](ly-thuyet-nhom/tac-dong-nhom.md)
 
 ## TOÁN RỜI RẠC
 
